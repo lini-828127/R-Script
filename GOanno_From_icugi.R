@@ -1,3 +1,7 @@
+# used for Cucumber 9930 GO_annotation Information Scapy from Icugi.org
+# with modify can be used to the other speices
+# 
+
 GOanno_From_icugi <- function(filepath, filename) {
   # load package
   library(rvest)
